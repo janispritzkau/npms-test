@@ -15,7 +15,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git@github.com:janispritzkau/npms-test.git"
+        "url": "https://github.com/janispritzkau/npms-test.git"
     },
     "devDependencies": {
         "eslint": "^6.1.0"
