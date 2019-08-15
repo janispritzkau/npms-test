@@ -1,5 +1,9 @@
 # npms-test
 
+[![NPM Version](https://img.shields.io/npm/v/@janispritzkau/npms-test)](https://www.npmjs.com/package/@janispritzkau/npms-test)
+[![Downloads](https://img.shields.io/npm/dw/@janispritzkau/npms-test)](https://www.npmjs.com/package/@janispritzkau/npms-test)
+[![GitHub Followers](https://img.shields.io/github/followers/janispritzkau?style=social)](https://github.com/janispritzkau)
+
 Exports `add`, `sub` and `mul` function.
 
 ## Usage

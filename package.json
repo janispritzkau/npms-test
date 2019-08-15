@@ -3,6 +3,7 @@
     "version": "1.0.0",
     "author": "janispritzkau@gmail.com",
     "description": "Figuring out how npms scores packages.",
+    "homepage": "https://expr.run",
     "main": "index.js",
     "scripts": {
         "lint": "eslint *.js",
